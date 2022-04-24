@@ -1,4 +1,4 @@
-# Login functional test cases
+# Log-in functional test cases
 
 ### Prerequisites: n/a
 
